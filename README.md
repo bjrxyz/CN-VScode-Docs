@@ -56,16 +56,15 @@ Visual Studio Code 是微软推出的跨平台编辑器。它采用经典的VS�
 
 ## 正在翻译文章+作者
 
-* OverView+Jeason
 * The Basics+Swizard
 * Editing Evolved+heshenghuan
 * C++ + imbaqian
 * Javascript+Styx
 * Markdown+Cherry Mill Wong
-
+* EXTENSIONS + bjrxyz
 ## 项目翻译目录
 
-* [Overview](https://code.visualstudio.com/docs)
+* ~~[Overview](https://code.visualstudio.com/docs)~~
 
 * EDITOR
   * ~~[Setup](https://code.visualstudio.com/docs/editor/setup)~~
@@ -107,9 +106,9 @@ Visual Studio Code 是微软推出的跨平台编辑器。它采用经典的VS�
   * [Office](https://code.visualstudio.com/docs/runtimes/office)
 
 * EXTENSIONS
-  * [Overview](https://code.visualstudio.com/docs/extensions/overview)
-  * [Example - Hello World](https://code.visualstudio.com/docs/extensions/example-hello-world)
-  * [Example - Word Count](https://code.visualstudio.com/docs/extensions/example-word-count)
+  * ~~[Overview](https://code.visualstudio.com/docs/extensions/overview)~~
+  * ~~[Example - Hello World](https://code.visualstudio.com/docs/extensions/example-hello-world)~~
+  * ~~[Example - Word Count](https://code.visualstudio.com/docs/extensions/example-word-count)~~
   * [Example - Language Server](https://code.visualstudio.com/docs/extensions/example-language-server)
   * [Example - Debuggers](https://code.visualstudio.com/docs/extensions/example-debuggers)
   * [Principles and Patterns](https://code.visualstudio.com/docs/extensions/patterns-and-principles)
@@ -146,5 +145,6 @@ Visual Studio Code 是微软推出的跨平台编辑器。它采用经典的VS�
 - [yuxuefeng](https://github.com/twem007)
 - [chenxinlong](http://github.com/chenxinlong)
 - [Cherry Mill Wong](http://http://123.206.79.144/)
+- [bjrxyz](https://github.com/bjrxyz)
 
 （Fork 之后自行添加到最后）
